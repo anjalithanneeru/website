@@ -1,0 +1,35 @@
+
+.form{
+    margin: auto;
+    margin-top: 5%;
+    margin-left: 35%;
+    border: 2px solid rgb(7, 3, 3);
+    box-shadow: 2px 2px 2px 2px black;
+    width: 30%;
+    padding: 19px;
+    border-radius: 20px;
+    background-color: rgba(31, 30, 30,0.7);
+    
+    
+}
+.input{
+    color: white;
+    font-size: 20px;
+}
+span{
+    font-size:xx-large;
+}
+#pp{
+    height: 10%;
+    width: 10%;
+}
+.bp{
+    background-color: rgb(38, 38, 241);
+    border-radius: 6px;
+    width:140px;
+    height: 45px;
+    border: 1px navy;
+    color:white;
+}
+
+

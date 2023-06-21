@@ -1,0 +1,251 @@
+.pic{
+    height:700px;
+    width:1349px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right:-6px ;
+    animation: moveimg1 10s infinite;
+    position: relative;
+    
+}
+@keyframes moveimg1 {
+    0%{
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/66/808/desktop-wallpaper-new-musical-instrument.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    25%{
+    background-image: url('https://free4kwallpapers.com/uploads/originals/2018/03/04/music-man-stingray-bass-4-string-sunburst-wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    50%{
+        background-image: url('https://i.pinimg.com/originals/43/7d/76/437d761788843274c958ecd81f2e2cc4.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%; 
+    }
+    75%{
+        background-image: url('https://e0.pxfuel.com/wallpapers/1022/473/desktop-wallpaper-country-music-instruments-trumpets-widescreen-high-country-singer.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    100%{
+        background-image: url('https://e1.pxfuel.com/desktop-wallpaper/66/808/desktop-wallpaper-new-musical-instrument.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+}
+/*-------------------------ints2-------------------*/
+.keys{
+    height:700px;
+    width:1349px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right:-6px ;
+    animation: moveimg2 10s infinite;
+    position: relative;
+    
+}
+@keyframes moveimg2 {
+    0%{
+    background-image: url('img9.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    25%{
+    background-image: url('https://www.yamaha.com/us/pianos/images/homepageStill.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    50%{
+        background-image: url('https://static7.depositphotos.com/1074442/695/i/450/depositphotos_6951777-stock-photo-piano-keyboard.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%; 
+    }
+    75%{
+        background-image: url('https://c4.wallpaperflare.com/wallpaper/199/362/527/old-piano-black-grand-piano-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    100%{
+        background-image: url('img9.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+}
+
+/*-------------------------ints3-------------------*/
+.drum{
+    height:700px;
+    width:1349px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right:-6px ;
+    animation: moveimg3 10s infinite;
+    position: relative;
+    
+}
+@keyframes moveimg3 {
+    0%{
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/602/59/819/drum-drums-musical-instrument-stage-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    25%{
+    background-image: url('https://www.musora.com/musora-cdn/image/quality=85/https://drumeoblog.s3.amazonaws.com/beat/wp-content/uploads/2020/08/14162537/Electronic-electric-drum-kit-DSC_0165-2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    50%{
+        background-image: url('https://wallpaperaccess.com/full/1262470.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%; 
+    }
+    75%{
+        background-image: url('https://c4.wallpaperflare.com/wallpaper/270/948/941/drum-drums-kit-music-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    100%{
+        background-image: url('https://c0.wallpaperflare.com/preview/685/464/57/drum-set-music-cymbals.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+}
+
+/*-------------------------ints4-------------------*/
+.viol{
+    height:700px;
+    width:1349px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right:-6px ;
+    animation: moveimg4 10s infinite;
+    position: relative;
+    
+}
+@keyframes moveimg4 {
+    0%{
+    background-image: url('https://wallpapercave.com/dwp1x/HJmuDQD.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    25%{
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/868/297/desktop-wallpaper-violin-music-backgrounds-beautiful-violin.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    50%{
+        background-image: url('https://cdn.wallpapersafari.com/27/74/3OXjfz.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 100%; 
+    }
+    75%{
+        background-image: url('https://getwalls.io/wallpapers/305129/2020--03--violin-4k-hd-mobile-pc.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+    100%{
+        background-image: url('https://wallpapercave.com/wp/2ptN8Ep.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    }
+}
+
+
+h1{
+    font-family: "Harrington";
+    font-size: 50px;
+}
+.main{
+    height:100px;
+    width:1349px;
+    margin-top: -3%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: -1px;
+    background-color: rgba(14, 13, 13,0.3);
+}
+
+
+nav{
+    margin-top: 20%;
+    font-size: 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-family: "Harrington" ;
+    font-weight: bold;
+}
+
+body{
+    font-size: 20px;
+}
+.p{
+    margin-left: 100px;
+    padding:20px;
+    font-family:"Footlight MT Light";
+    font-size:xx-large;
+    margin-right: 70px;
+    font-weight: 600;
+}
+.hp{
+    padding: 20px;
+    color: black;
+    font-size: 40px;
+    margin-right: 100px;
+    margin-left: 150px;
+
+}
+.para{
+    margin-left: 50px;
+}
+.bp{
+    background-color: rgb(38, 38, 241);
+    border-radius: 6px;
+    width:150px;
+    height: 50px;
+    border: 1px navy;
+    color:white;
+    margin-left:300px ;
+    margin-top: 30px;
+}
+
+.p1{
+    margin-right: 100px;
+    padding:20px;
+    font-family:"Footlight MT Light";
+    font-size:xx-large;
+    margin-left: 70px;
+    font-weight: 600;
+}
+.hp1{
+    padding: 18px;
+    color: black;
+    font-size: 30px;
+    margin-right: 100px;
+    margin-left: 150px;
+
+}
+.cost1{
+    font-size: 24px;
+}
+.para1{
+    margin-left: 50px;
+    font-size: 20px;
+}
+.bp1{
+    background-color: rgb(233, 155, 53);
+    border-radius: 6px;
+    width:150px;
+    height: 50px;
+    border: 1px navy;
+    color:white;
+    margin-top: 20px;
+}
+
+
+
+
+
